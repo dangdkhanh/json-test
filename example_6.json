@@ -1,0 +1,15 @@
+{
+  
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "emailAddress": "krish.lee@learningcontainer.com",
+		"address": [
+		{"street":"126","city":"san jone"},
+		{"warn":"126","city":"san jone"}
+		],
+		"phoneNumber":[
+{"type":"home","number":"123"},
+{"type":"work","number":"789"}
+]
+}
